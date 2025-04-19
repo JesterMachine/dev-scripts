@@ -5,7 +5,7 @@
 $GitHubUsername = "JesterMachine" # Change to your GitHub username
 $RepoName = "NEW_REPO_NAME" # Change this for each new repository
 $Private = $false    # Set to $true for private repo
-$Token = "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"   # Your GitHub personal access token
+$Token = "ENTER_YOUR_PAT_HERE"   # Your GitHub personal access token
 $RepoDescription = "Repository description goes here"
 $LocalPath = "C:\Users\adamj\Github_Repositories\$RepoName"
 
