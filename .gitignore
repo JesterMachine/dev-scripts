@@ -1,0 +1,24 @@
+﻿# PowerShell
+*.ps1.log
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Credentials and tokens
+**/credentials.json
+**/tokens.txt
+
+# Temporary files
+**/temp/
+**/tmp/
